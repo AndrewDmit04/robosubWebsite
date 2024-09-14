@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "./static/css/main.bb305eaa.css",
+    "main.js": "./static/js/main.a54afc01.js",
+    "static/media/GroupPhoto.jpg": "./static/media/GroupPhoto.5848677ae22323f8def6.jpg",
+    "static/media/Mohammad.jpg": "./static/media/Mohammad.4adc0a0c0ac40e9adc5c.jpg",
+    "static/media/Josiah.jpg": "./static/media/Josiah.9a0beaebb8a54f05ba9b.jpg",
+    "static/media/MateROV.png": "./static/media/MateROV.3e3b84445307348955be.png",
+    "static/media/Colin.jpg": "./static/media/Colin.825ea178f715fe6e19e2.jpg",
+    "static/media/subROV.png": "./static/media/subROV.30ea2058fbcd32411c00.png",
+    "static/media/Float.png": "./static/media/Float.44519fadae57b7c8e63b.png",
+    "static/media/Tiffany.jpeg": "./static/media/Tiffany.637cda4dd010789a923e.jpeg",
+    "static/media/AarianFTRHeadshot.jpg": "./static/media/AarianFTRHeadshot.e6558fa8f26af620dda6.jpg",
+    "static/media/Muneedb.jpg": "./static/media/Muneedb.3bf7a473dac8fce4f559.jpg",
+    "static/media/Shoaib.jpg": "./static/media/Shoaib.ef4e89b15fae64a6b17f.jpg",
+    "static/media/third.PNG": "./static/media/third.cb206da7a5794599f17a.PNG",
+    "static/media/Doc.PNG": "./static/media/Doc.518867e89ed5d2ab2373.PNG",
+    "static/media/minifloat.jpg": "./static/media/minifloat.76fa2b9ac53d264436f4.jpg",
+    "static/media/ken.jpg": "./static/media/ken.b9dc89b62bb8ae3bad0a.jpg",
+    "static/media/ishaan.jpg": "./static/media/ishaan.04c04d5d5ca4f94fe009.jpg",
+    "static/media/RobosubLogo.png": "./static/media/RobosubLogo.07ffe40e917d9fe14ef7.png",
+    "static/media/Anna.jpg": "./static/media/Anna.b1c1c49a6b4d643b000d.jpg",
+    "static/media/Farhan.jpg": "./static/media/Farhan.caba10ad62e943fd1549.jpg",
+    "static/media/Farman.jpg": "./static/media/Farman.764e4d0c47e1ec01f5db.jpg",
+    "index.html": "./index.html",
+    "main.bb305eaa.css.map": "./static/css/main.bb305eaa.css.map",
+    "main.a54afc01.js.map": "./static/js/main.a54afc01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb305eaa.css",
+    "static/js/main.a54afc01.js"
+  ]
+}

@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "./static/css/main.bb305eaa.css",
-    "main.js": "./static/js/main.f562d97b.js",
+    "main.js": "./static/js/main.c5506b6c.js",
     "static/media/Mohammad.jpg": "./static/media/Mohammad.4adc0a0c0ac40e9adc5c.jpg",
+    "static/media/subROV.png": "./static/media/subROV.30ea2058fbcd32411c00.png",
     "static/media/Float.png": "./static/media/Float.44519fadae57b7c8e63b.png",
     "static/media/GroupPhoto.jpeg": "./static/media/GroupPhoto.5a7595931094fd603dc9.jpeg",
     "static/media/AarianFTRHeadshot.jpg": "./static/media/AarianFTRHeadshot.e6558fa8f26af620dda6.jpg",
@@ -12,7 +13,6 @@
     "static/media/Doc.PNG": "./static/media/Doc.518867e89ed5d2ab2373.PNG",
     "static/media/minifloat.jpg": "./static/media/minifloat.76fa2b9ac53d264436f4.jpg",
     "static/media/ken.jpg": "./static/media/ken.b9dc89b62bb8ae3bad0a.jpg",
-    "static/media/subROV.jpg": "./static/media/subROV.f08ccde613892349c8f4.jpg",
     "static/media/ishaan.jpg": "./static/media/ishaan.04c04d5d5ca4f94fe009.jpg",
     "static/media/RobosubLogo.png": "./static/media/RobosubLogo.07ffe40e917d9fe14ef7.png",
     "static/media/Tiffany.jpeg": "./static/media/Tiffany.edf3949bf1404639f3f5.jpeg",
@@ -24,10 +24,10 @@
     "static/media/Farman.jpg": "./static/media/Farman.764e4d0c47e1ec01f5db.jpg",
     "index.html": "./index.html",
     "main.bb305eaa.css.map": "./static/css/main.bb305eaa.css.map",
-    "main.f562d97b.js.map": "./static/js/main.f562d97b.js.map"
+    "main.c5506b6c.js.map": "./static/js/main.c5506b6c.js.map"
   },
   "entrypoints": [
     "static/css/main.bb305eaa.css",
-    "static/js/main.f562d97b.js"
+    "static/js/main.c5506b6c.js"
   ]
 }

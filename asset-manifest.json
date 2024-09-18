@@ -1,33 +1,34 @@
 {
   "files": {
-    "main.css": "./static/css/main.50887125.css",
-    "main.js": "./static/js/main.a2de4d71.js",
+    "main.css": "./static/css/main.4d781cd2.css",
+    "main.js": "./static/js/main.24f6c583.js",
+    "static/media/minifloat.jpg": "./static/media/minifloat.384bfbe37f0f57609884.jpg",
     "static/media/subROV.png": "./static/media/subROV.30ea2058fbcd32411c00.png",
-    "static/media/Float.png": "./static/media/Float.44519fadae57b7c8e63b.png",
     "static/media/Mohammad.jpeg": "./static/media/Mohammad.ed1d8efa6eda8d419812.jpeg",
     "static/media/Tiffany.jpeg": "./static/media/Tiffany.9da242d18f5c33d0cb9f.jpeg",
     "static/media/GroupPhoto.jpeg": "./static/media/GroupPhoto.5a7595931094fd603dc9.jpeg",
     "static/media/Anna.jpg": "./static/media/Anna.b2188e92efe894730962.jpg",
+    "static/media/MateROV.png": "./static/media/MateROV.d311d7d54b9785c729a4.png",
     "static/media/Muneedb.jpg": "./static/media/Muneedb.3bf7a473dac8fce4f559.jpg",
     "static/media/AarianFTRHeadshot.jpg": "./static/media/AarianFTRHeadshot.ec6219f096fbb8a8cc2c.jpg",
     "static/media/Shoaib.jpg": "./static/media/Shoaib.812267d431182b456f47.jpg",
     "static/media/third.PNG": "./static/media/third.cb206da7a5794599f17a.PNG",
     "static/media/Doc.PNG": "./static/media/Doc.518867e89ed5d2ab2373.PNG",
-    "static/media/minifloat.jpg": "./static/media/minifloat.76fa2b9ac53d264436f4.jpg",
     "static/media/ken.jpg": "./static/media/ken.b9dc89b62bb8ae3bad0a.jpg",
     "static/media/ishaan.jpg": "./static/media/ishaan.04c04d5d5ca4f94fe009.jpg",
+    "static/media/Float.png": "./static/media/Float.983e617c157d598c51f1.png",
     "static/media/RobosubLogo.png": "./static/media/RobosubLogo.07ffe40e917d9fe14ef7.png",
-    "static/media/MateROV.jpg": "./static/media/MateROV.44fe0ec6a5da98523633.jpg",
     "static/media/Josiah.jpg": "./static/media/Josiah.a95bda12e713638def16.jpg",
     "static/media/Colin.jpg": "./static/media/Colin.2cc1026baa3257818c28.jpg",
+    "static/media/roboboat-logo.png": "./static/media/roboboat-logo.5c76e311fe8643a7e82b.png",
     "static/media/Farhan.jpg": "./static/media/Farhan.caba10ad62e943fd1549.jpg",
     "static/media/Farman.jpg": "./static/media/Farman.764e4d0c47e1ec01f5db.jpg",
     "index.html": "./index.html",
-    "main.50887125.css.map": "./static/css/main.50887125.css.map",
-    "main.a2de4d71.js.map": "./static/js/main.a2de4d71.js.map"
+    "main.4d781cd2.css.map": "./static/css/main.4d781cd2.css.map",
+    "main.24f6c583.js.map": "./static/js/main.24f6c583.js.map"
   },
   "entrypoints": [
-    "static/css/main.50887125.css",
-    "static/js/main.a2de4d71.js"
+    "static/css/main.4d781cd2.css",
+    "static/js/main.24f6c583.js"
   ]
 }

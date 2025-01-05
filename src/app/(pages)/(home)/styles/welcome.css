@@ -1,0 +1,144 @@
+section {
+  width: 100%;
+  position: relative;
+  background-color: black;
+  z-index: 0;
+}
+
+.wave {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  background: url(/imgs/misc/wave.svg);
+  background-size: 1000px;
+  animation: animate 3s ease-in-out infinite;
+}
+
+.wave#wave1 {
+  z-index: 1000;
+  opacity: 1;
+  background-position-x: 400px;
+}
+
+.wave#wave2 {
+  z-index: 999;
+  opacity: 0.5;
+  background-position-x: 300px;
+  animation-delay: calc(1 * 0.25s);
+}
+
+.wave#wave3 {
+  z-index: 998;
+  opacity: 0.2;
+  background-position-x: 200px;
+  animation-delay: calc(2 * 0.25s);
+}
+
+.wave#wave4 {
+  z-index: 997;
+  opacity: 0.7;
+  background-position-x: 100px;
+  animation-delay: calc(3 * 0.25s);
+}
+
+@keyframes animate {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+}
+
+.title-con {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  justify-content: center;
+  gap: 100px;
+  align-items: center;
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  .title-con {
+    flex-direction: column;
+  }
+}
+
+.title-text {
+  margin: 0;
+  font-size: 7vw;
+  width: 75%;
+  padding: 30px;
+  color: #3100ff;
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: black;
+}
+
+.sub-photo {
+  width: 100%;
+  max-width: 700px;
+  position: relative;
+  right: 10%;
+  z-index: 1;
+  transform: rotate(-24deg);
+  animation: isolate 3s ease-in-out infinite;
+}
+
+/* Adjust for medium screens */
+@media (max-width: 768px) {
+  .sub-photo {
+    max-width: 400px;
+    right: 5%;
+  }
+}
+
+/* Adjust for small screens */
+@media (max-width: 480px) {
+  .sub-photo {
+    max-width: 500px; /* Further reduce max-width */
+    transform: translateX(-20px);
+  }
+}
+
+@keyframes isolate {
+  0%,
+  100% {
+    transform: translateY(0px) rotate(-24deg);
+  }
+  50% {
+    transform: translateY(10px) rotate(-24deg);
+  }
+}
+
+.shining-stars {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  overflow: hidden;
+  z-index: -1;
+}
+
+.star {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  background: white;
+  border-radius: 50%;
+  animation: blink 1.5s infinite;
+  animation-delay: var(--animation-delay);
+}
+
+@keyframes blink {
+  0%, 100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
